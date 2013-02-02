@@ -1,0 +1,5 @@
+Ukladani pozic prvku v okne:
+- neukladaji a nenastavuji se pozice frame a tabstrip
+
+Ziskavani stavu tlacitek a jinych prvku, napr. bool OnPress()
+- v danem okne kde se podminka testuje se musi testovat pouze jednou, podruhe uz totiz vrati vzdy false

@@ -1,0 +1,35 @@
+Panther3D[1] Source Code
+========================
+
+This is the source code of the first generation of Reversity Studios' game engine. 
+Note that Reversity Studios was called 7thSquad before.
+
+You are allowed to use this source code as you want, even for commercial purposes.
+There is no licence attached to this source code.
+
+There are few conditions though:
+--------------------------------
+* You can redistribute this code only with this file.
+
+* If you decide to distribute modified version of this work, you need to change 
+  this README file to inform others that this is not the original work 
+  of Reversity Studios and that you modified it.
+
+* If this code helps you in any way, please tell us by mail how it helped you.
+  We would like to know, what you are working on and what you get from this.
+
+* There is no support from Reversity Studios, this code is distributed as-is
+  (in rare cases we can give you some hints, but don't count on it).
+
+About Reversity Studios
+-----------------------
+
+Reversity Studios is an indie game development team from the Czech Republic.
+It consists of a few people highly interested in the game development.
+
+Website: www.reversity.org
+E-Mail: info@reversity.org
+
+Don't forget to became a fan of our Facebook: 
+http://www.facebook.com/reversity
+
